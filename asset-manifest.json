@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/luxary/static/css/main.68db0c1f.chunk.css",
+    "main.css": "/luxary/static/css/main.d6865003.chunk.css",
     "main.js": "/luxary/static/js/main.b6b0ab4a.chunk.js",
     "main.js.map": "/luxary/static/js/main.b6b0ab4a.chunk.js.map",
     "runtime~main.js": "/luxary/static/js/runtime~main.c78e8fbc.js",
@@ -8,9 +8,9 @@
     "static/js/2.e7505d6b.chunk.js": "/luxary/static/js/2.e7505d6b.chunk.js",
     "static/js/2.e7505d6b.chunk.js.map": "/luxary/static/js/2.e7505d6b.chunk.js.map",
     "index.html": "/luxary/index.html",
-    "precache-manifest.b97c56e78bd405553ba0a6d06685ecad.js": "/luxary/precache-manifest.b97c56e78bd405553ba0a6d06685ecad.js",
+    "precache-manifest.1b98ad21be7d220bb2eb4ade9ae08bec.js": "/luxary/precache-manifest.1b98ad21be7d220bb2eb4ade9ae08bec.js",
     "service-worker.js": "/luxary/service-worker.js",
-    "static/css/main.68db0c1f.chunk.css.map": "/luxary/static/css/main.68db0c1f.chunk.css.map",
+    "static/css/main.d6865003.chunk.css.map": "/luxary/static/css/main.d6865003.chunk.css.map",
     "static/media/graph1.JPG": "/luxary/static/media/graph1.195c7744.JPG",
     "static/media/graph2.JPG": "/luxary/static/media/graph2.3911176b.JPG",
     "static/media/profile.JPG": "/luxary/static/media/profile.3abb8eea.JPG"

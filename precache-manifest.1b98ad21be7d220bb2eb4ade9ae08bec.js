@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e5e6b1d4df2cc823fa73bb78a2beafd",
+    "revision": "109d09e8c106908628adc68838234fbc",
     "url": "/luxary/index.html"
   },
   {
-    "revision": "5fa8492e61c20478cefb",
-    "url": "/luxary/static/css/main.68db0c1f.chunk.css"
+    "revision": "7b2b4f7ff12913a0177b",
+    "url": "/luxary/static/css/main.d6865003.chunk.css"
   },
   {
     "revision": "6c04564621e539ca1c07",
     "url": "/luxary/static/js/2.e7505d6b.chunk.js"
   },
   {
-    "revision": "5fa8492e61c20478cefb",
+    "revision": "7b2b4f7ff12913a0177b",
     "url": "/luxary/static/js/main.b6b0ab4a.chunk.js"
   },
   {
