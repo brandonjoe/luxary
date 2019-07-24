@@ -3,8 +3,10 @@
 ## Application for Luxary presence.
 [Demo at 1920x1080](https://brandonjoe.github.io/luxary/)
 
+
 ### Please share your screen resolution, OS, browser version (best if you're using latest) you used to test in so we can look at it in:
 I coded this project in 1920x1080 resolution in the latest version of Google Chrome on Windows 10. 
+Also for testing, please refrain from using the github pages, the data won't load correctly. With my limited googling, I think it has to do with CORS. If the project is loaded directly from file, and launched with "npm run start," the data will be loaded. 
 
 ### What part of the design did you get stuck on? What took the most time? Similarly, what was the easiest part?
 
