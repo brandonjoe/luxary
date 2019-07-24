@@ -1,0 +1,31 @@
+.container{
+    min-width: 23rem;
+    height: 68rem;
+    background: rgb(42,51,62);
+}
+.profile{
+    background: rgb(31,167,211);
+    height: 5rem;
+    padding: 0 2rem 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu{
+    width: 20px;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+    margin: 3px 0;
+}
+.logo{
+    margin-right: 1rem;
+    height: 2.5rem;
+    width: fill;
+    background-color: rgb(146,146,146);
+    
+}
+@media only screen and (max-width: 1650px){
+    .container{
+        min-width: 18rem;
+    }
+}

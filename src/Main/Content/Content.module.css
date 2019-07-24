@@ -1,0 +1,27 @@
+.container{
+    background: rgb(240,244,248);
+    height: 63rem;
+    width: 100%;
+}
+.header{
+    display: flex;
+    height: 9rem;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3rem 0 3rem;
+}
+.title{
+    color: rgb(91,97,109);
+    font-size: 2.5rem;
+    font-weight: 200;
+
+}
+.subtitle{
+    font-size: 1rem;
+    color: rgb(177,173,182);
+}
+@media only screen and (max-width: 1210px){
+    .container{
+        height: 100rem;
+    }
+}

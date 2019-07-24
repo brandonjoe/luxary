@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space;
+    align-items: center;
+    padding:1rem 0 1rem 0;
+    color: rgb(145,167,198);
+}
+.icon{
+    width: 2rem;
+   font-size: 1.2rem;
+    padding: 0 2rem 0 3rem;
+    
+}
+.chevron{
+    margin-left: auto;
+    font-size: 1.2em;
+    padding-right: 1rem;
+}

@@ -1,0 +1,17 @@
+.container{
+    width: fit-content;
+
+padding: 2rem;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin: 0 4rem 0 4rem;
+}
+.data{
+    font-size: 3.6rem;
+}
+.data2{
+   color: rgb(183,178,187);
+   font-size: 1.1rem;
+}
